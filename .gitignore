@@ -1,0 +1,14 @@
+*.swp
+*.pid
+*.tmproj
+.DS_Store
+tags
+log/*.*
+logs/*.*
+spec/log/*.*
+coverage/*.*
+couchdb.*
+cache
+slide*.pdf
+src/Dice/bin
+src/DiceTest/bin
