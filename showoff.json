@@ -1,0 +1,9 @@
+{ "name": "Throw Out the Experts", 
+  "sections": 
+    [ 
+      {"section":"intro"},
+      {"section":"main"},
+      {"section":"thanks"}
+    ]
+}
+
