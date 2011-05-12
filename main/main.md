@@ -8,31 +8,31 @@
 
 !SLIDE full-page 
 
-![Frontend and backend developers](frontend_dev.svg)
+![Frontend and backend developers](frontend_dev.png)
 
 !SLIDE full-page 
 
-![Database administrators](databaseadmin.svg)
+![Database administrators](databaseadmin.png)
 
 !SLIDE full-page 
 
-![Operations](operations.svg)
+![Operations](operations.png)
 
 !SLIDE full-page 
 
-![Security experts](securityexpert.svg)
+![Security experts](securityexpert.png)
 
 !SLIDE full-page 
 
-![Usability experts](usability.svg)
+![Usability experts](usability.png)
 
 !SLIDE full-page 
 
-![method expert](methodexpert.svg)
+![method expert](methodexpert.png)
 
 !SLIDE full-page 
 
-![Ideas](ideas.svg)
+![Ideas](ideas.png)
 
 !SLIDE full-page 
 
